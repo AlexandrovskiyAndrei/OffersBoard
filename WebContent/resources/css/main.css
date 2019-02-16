@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+
+.formtable {
+	width: 600px;
+	padding: 10px;
+	border: 1px solid blue;
+}
+
+input[type=text]{
+	width: 150px;
+	margin-left: 10px;
+}
+
+input[type=password]{
+	width:150px;
+	margin-left: 10px;
+}
+
+textarea {
+	width: 150px;
+	height: 200px;
+}
+
+.label {
+	text-align: right;
+	vertical-align: top;
+}
+
+.control {
+	margin-left: 10px;
+}
+
+.errors {
+	color: red;
+	font-size: small;
+	margin-left: 10px;
+}
+
+p.error {
+	color: red;
+}
