@@ -1,4 +1,4 @@
-#Offers board
+# Offers board
 
 Study project. Work in progress.
 
